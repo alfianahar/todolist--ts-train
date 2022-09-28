@@ -1,6 +1,14 @@
 {
   "name": "typescript-todolist",
   "version": "0.1.0",
-  "private": true,
-  "dependencies": {}
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Alfianahar",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
